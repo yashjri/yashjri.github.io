@@ -5,7 +5,7 @@
   "author": "Yash Singh <yashsingh0675@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/yashjri/yashsingh.github.io"
   },
   "keywords": [
     "gatsby"
@@ -18,8 +18,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d public -b master"
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "husky": {
     "hooks": {
