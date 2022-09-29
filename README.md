@@ -1,3 +1,6 @@
+<div align="center">
+  <img alt="Logo" src="https://github.com/yashjri/yashjri.github.io/blob/code/src/images/logo.png" width="100" />
+</div>
 <h1 align="center">
   Portfolio Website Version 1
 </h1>
