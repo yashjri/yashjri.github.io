@@ -2,7 +2,7 @@
 date: '2022-07-07'
 title: 'Fresher'
 company: 'Open to work'
-range: 'July 2022 - Present'
+range: 'September 2022 - Present'
 url: 'https://www.github.com/'
 ---
 

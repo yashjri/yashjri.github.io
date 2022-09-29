@@ -4,7 +4,7 @@ module.exports = {
     'Yash Singh is a Web Developer, who is passionate about learning new things.',
   siteKeywords:
     'Yash Singh, Yash, Singh, yashsingh14, software developer, software engineer, content freelancer, color blast, cube ninja game, web developer, java developer, spotify clone, jaipur,',
-  siteUrl: 'https://yashsingh.github.io/',
+  siteUrl: 'https://yashjri.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
