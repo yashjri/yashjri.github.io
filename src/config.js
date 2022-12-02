@@ -12,7 +12,7 @@ module.exports = {
   location: 'Jaipur, India',
   email: 'yashsingh0675@gmail.com',
   github: 'https://github.com/yashjri',
-  twitterHandle: '@yash23611061',
+  twitterHandle: '@yashsingh14_',
   socialMedia: [
     {
       name: 'GitHub',

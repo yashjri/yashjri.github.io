@@ -1,9 +1,13 @@
 ---
-date: '2022-07-07'
-title: 'Fresher'
-company: 'Open to work'
-range: 'September 2022 - Present'
-url: 'https://www.github.com/'
+date: '2022-11-04'
+title: 'Intern'
+company: 'Oasis Infobyte'
+range: 'November - December 2022'
+url: 'https://oasisinfobyte.com/'
 ---
 
-- I am a specialist on **Web Developing** ground and got a profound knowledge of doing anything related to this platform. Also, I have got an impressive urgency of learning and gaining new skills and knowledge with total ease. I am skillful at programming and coding languages.
+- Project on building a Landing Page using HTML,CSS. 
+- Project on creating a Portfolio using HTML,CSS,Javascript. 
+- Project on developing a Temperature Converter Website using HTML,CSS,Javascript. 
+- Project on creating a Calculator using HTML,CSS,Javascript. 
+- View [PROJECTS](https://github.com/yashjri/OIBSIP) and [CERTIFICATE](https://drive.google.com/file/d/1s0vXKVrj76MEeZ06digXOB2ZrcgfJq7O/view?usp=share_link) 
