@@ -2,7 +2,7 @@
 date: '2022-11-04'
 title: 'Intern'
 company: 'Oasis Infobyte'
-range: 'November - December 2022'
+range: 'October - November 2022'
 url: 'https://oasisinfobyte.com/'
 ---
 
