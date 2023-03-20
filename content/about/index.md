@@ -21,4 +21,4 @@ I have also played for [JEFC](https://www.instagram.com/jaipurelitefootball/) Fo
 
 I have been awarded as Winner of the Inter-College competition of [MAISM](https://www.maism.org/) college in [**Chess**](https://www.chess.com/member/yashjri) competition (2023).
 
-Here is a list of programming Languages that I'm familiar with!
+Here is a list of programming Languages that I'm familiar with!!
