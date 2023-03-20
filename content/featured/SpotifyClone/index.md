@@ -3,7 +3,7 @@ date: '1'
 title: 'Spotify Clone'
 cover: 'spotify.png'
 github: 'https://github.com/yashjri/spotify_clone'
-external: ''
+external: 'https://yashjri.github.io/spotify_clone/'
 tech:
   - HTML
   - CSS

@@ -3,7 +3,7 @@ date: '2'
 title: 'Cube Ninja Game '
 cover: 'cubeninja.png'
 github: 'https://github.com/yashjri/cube-ninja-game'
-external: ''
+external: 'https://yashjri.github.io/cube-ninja-game/'
 tech:
   - HTML5
   - CSS3

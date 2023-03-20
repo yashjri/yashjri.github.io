@@ -3,7 +3,7 @@ date: '3'
 title: 'Color Blast!'
 cover: 'colorblast.png'
 github: 'https://github.com/yashjri/color-blast-game'
-external: ''
+external: 'https://yashjri.github.io/color-blast-game/'
 tech:
   - HTML5
   - CSS3
