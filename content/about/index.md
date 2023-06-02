@@ -17,7 +17,7 @@ Hello , I got introduced to programming in my freshman Year at [Maharishi Arvind
 I create new websites and individual web pages and also update existing websites with **New content** and continuously enhance **Website functionality**.
 
 I represented my [Central Academy](https://www.centralacademy.ac.in/) School in Chess Olympiad Tournament in 2018.
-I have also played for [JEFC](https://www.instagram.com/jaipurelitefootball/) Football Club in 2018-19.
+
 
 I have been awarded as Winner of the Inter-College competition of [MAISM](https://www.maism.org/) college in [**Chess**](https://www.chess.com/member/yashjri) competition (2023).
 
