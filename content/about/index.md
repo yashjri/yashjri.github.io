@@ -2,7 +2,7 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - C++
+  - C/C++
   - HTML5
   - CSS3
   - Javascript
@@ -10,6 +10,7 @@ skills:
   - PostgreSQL
   - Java
   - Python
+  - PHP
 ---
 
 Hello , I got introduced to programming in my freshman Year at [Maharishi Arvind Institute of Science & Management,  Jaipur](https://www.maism.org/) where I'm persuing my Bachelors in Computer Applications (2021-2024).

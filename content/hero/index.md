@@ -5,7 +5,7 @@ subtitle: 'A Passionate Web Developer from India.'
 buttonText: 'Contact Me'
 ---
 
-Currently a Second-Year Student in the MAISM College,
+Currently a Third-Year Student in the MAISM College,
 
 I have decided to follow this training which allows a learning by oneself.
 
