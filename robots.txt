@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yashjri.github.io/sitemap/sitemap-index.xml
+Sitemap: https://yashjri.github.io/sitemap-index.xml
 Host: https://yashjri.github.io
