@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Yash Singh | Web Developer ',
+  siteTitle: 'Yash Singh | Frontend Developer ',
   siteDescription:
     'Yash Singh is a Web Developer, who is passionate about learning new things.',
   siteKeywords:
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yash-s-79352b220/',
+      url: 'https://www.linkedin.com/in/its-yashsingh/',
     },
     {
       name: 'Instagram',
@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/yashsingh14_',
+      url: 'https://twitter.com/majestymasculin',
     },
   ],
 

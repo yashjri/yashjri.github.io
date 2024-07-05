@@ -1,13 +1,13 @@
 ---
 title: 'Hello! My Name is'
 name: 'Yash Singh'
-subtitle: 'A Passionate Web Developer from India.'
+subtitle: 'BCA | Coding Enthusiast | Freelancer'
 buttonText: 'Contact Me'
 ---
 
-Currently a Third-Year Student in the MAISM College,
+Glad to e-meet you!
 
-I have decided to follow this training which allows a learning by oneself.
+I am Yash Singh, an alumnus of [MAISM](https://www.maism.org/) and currently spearheading impactful coding strategies.
 
 
-In addition, I am very interested in Web Development that I discovered outside the scope of my Studying in college, I like the creativity and group work that this field brings me.
+When not decoding the journey, you can find me building my own brand on [X](https://twitter.com/majestymasculin) or blitzing out my chess rating at [Chess.com](https://www.chess.com/member/yashjri).
