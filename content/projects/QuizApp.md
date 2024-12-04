@@ -1,14 +1,14 @@
 ---
-date: '2022-08-12'
+date: '2022-06-12'
 title: 'Quiz App'
 github: 'https://github.com/yashjri/quiz_game'
 external: ''
 tech:
-  - HTML
-  - CSS
+  - HTML5
+  - CSS3
   - Javascript
-company: ''
+company: 'Project'
 showInProjects: true
 ---
 
-Repository dedicated to my Simple **My Quiz App.**
+The game features dynamic question rendering, real-time score tracking, and user-friendly navigation. Designed with responsive styling and engaging visuals to ensure a fun and seamless experience across all devices.

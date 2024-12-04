@@ -2,47 +2,58 @@
   <img alt="Logo" src="https://github.com/yashjri/yashjri.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Portfolio Website 
+  Personal Portfolio Website
 </h1>
+<p align="center">
+  The second iteration of <a href="https://yashjri.github.io/" target="_blank">yashjri.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted using <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+</p>
+<!-- <p align="center">
+  Previous iterations:
+  <a href="https://github.com/yashjri/yashjri.github.io-v1" target="_blank">Version 1</a>
+</p> -->
+
+<!-- <div align="center">
+  <img alt="Demo" src="https://github.com/yashjri/yashjri.github.io/blob/code/src/images/demo.png" />
+</div> -->
 
 ## 🛠 Installation & Set Up
 
-1. Install the Gatsby CLI
+1. Install the Gatsby CLI (Use npm 10)
 
    ```sh
    npm install -g gatsby-cli
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+2. Install and use the correct version of Node (18 or 20) using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
-   nvm install
+   nvm install --force
    ```
 
-3. Install dependencies
+3. Build using Gatsby
 
    ```sh
-   yarn
+   gatsby build
    ```
 
-4. Start the development server
+4. Start the development server (localhost)
 
    ```sh
    npm start
    ```
 
-## 🚀 Building and Running for Production
+## 🚀 Building and Running for Production (GitHub Pages)
 
 1. Generate a full static production build
 
    ```sh
-   npm run build
+   gatsby build
    ```
 
-1. Preview the site as it will appear once deployed
+2. Push to production
 
    ```sh
-   npm run serve
+   npm run deploy
    ```
 
 ## 🎨 Color Reference

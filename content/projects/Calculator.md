@@ -1,13 +1,14 @@
 ---
-date: '2022-07-11'
+date: '2022-11-20'
 title: 'Javascript Calculator'
 github: 'https://github.com/yashjri/Javascript_Calculator'
 external: ''
 tech:
-  - HTML
-  - CSS
+  - HTML5
+  - CSS3
   - Javascript
+company: 'Project'
 showInProjects: true
 ---
 
-Calculator for beginers to get into Javascript.
+The calculator supports basic arithmetic operations (addition, subtraction, multiplication, division) with a clean, user-friendly interface. Designed with responsive styling for compatibility across devices and implemented efficient JavaScript logic for seamless calculations.

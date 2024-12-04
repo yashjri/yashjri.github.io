@@ -1,26 +1,10 @@
 module.exports = {
-  siteTitle: 'Yash Singh | Frontend Developer ',
-  siteDescription:
-    'Yash Singh is a Web Developer, who is passionate about learning new things.',
-  siteKeywords:
-    'Yash Singh, Yash, Singh, yashsingh14, software developer, software engineer, content freelancer, color blast, cube ninja game, web developer, java developer, spotify clone, jaipur,',
-  siteUrl: 'https://yashjri.github.io/',
-  siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yash Singh',
-  location: 'Jaipur, India',
   email: 'yashsingh0675@gmail.com',
-  github: 'https://github.com/yashjri',
-  twitterHandle: '@yashsingh14_',
+
   socialMedia: [
     {
       name: 'GitHub',
       url: 'https://github.com/yashjri',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/its-yashsingh/',
     },
     {
       name: 'Instagram',
@@ -29,6 +13,10 @@ module.exports = {
     {
       name: 'Twitter',
       url: 'https://twitter.com/majestymasculin',
+    },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/its-yashsingh',
     },
   ],
 
@@ -42,7 +30,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Projects',
+      name: 'Work',
       url: '/#projects',
     },
     {
@@ -51,15 +39,13 @@ module.exports = {
     },
   ],
 
-  navHeight: 100,
-
   colors: {
     green: '#64ffda',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
 
-  srConfig: (delay = 200) => ({
+  srConfig: (delay = 200, viewFactor = 0.25) => ({
     origin: 'bottom',
     distance: '20px',
     duration: 500,
@@ -71,7 +57,7 @@ module.exports = {
     mobile: true,
     reset: false,
     useDelay: 'always',
-    viewFactor: 0.25,
+    viewFactor,
     viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
   }),
 };

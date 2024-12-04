@@ -1,13 +1,14 @@
 ---
-date: '2022-08-13'
+date: '2022-05-20'
 title: 'Travelling Site'
 github: 'https://github.com/yashjri/travelling_site'
 external: ''
 tech:
-  - HTML
-  - CSS
-company: ''
+  - HTML5
+  - CSS3
+
+company: 'Project'
 showInProjects: true
 ---
 
-**Never stop Exploring the World** , so Explore this Website also.
+Developed a responsive and visually captivating travel website using HTML, CSS, and JavaScript. The website showcases destinations, packages, and services with interactive features like image sliders, animations, and smooth navigation. Designed to provide an engaging user experience and inspire travel enthusiasts.
